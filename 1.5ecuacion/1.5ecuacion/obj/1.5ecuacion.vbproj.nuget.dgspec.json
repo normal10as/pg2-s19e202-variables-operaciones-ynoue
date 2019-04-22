@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Source\\Repos\\pg2-s19e202-variables-operaciones-ynoue\\concatenacion\\concatenacion\\concatenacion.vbproj": {}
+    "C:\\Users\\Usuario\\source\\repos\\pg2-s19e202-variables-operaciones-ynoue\\1.5ecuacion\\1.5ecuacion\\1.5ecuacion.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Source\\Repos\\pg2-s19e202-variables-operaciones-ynoue\\concatenacion\\concatenacion\\concatenacion.vbproj": {
+    "C:\\Users\\Usuario\\source\\repos\\pg2-s19e202-variables-operaciones-ynoue\\1.5ecuacion\\1.5ecuacion\\1.5ecuacion.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\pg2-s19e202-variables-operaciones-ynoue\\concatenacion\\concatenacion\\concatenacion.vbproj",
-        "projectName": "concatenacion",
-        "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\pg2-s19e202-variables-operaciones-ynoue\\concatenacion\\concatenacion\\concatenacion.vbproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\pg2-s19e202-variables-operaciones-ynoue\\1.5ecuacion\\1.5ecuacion\\1.5ecuacion.vbproj",
+        "projectName": "1.5ecuacion",
+        "projectPath": "C:\\Users\\Usuario\\source\\repos\\pg2-s19e202-variables-operaciones-ynoue\\1.5ecuacion\\1.5ecuacion\\1.5ecuacion.vbproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\pg2-s19e202-variables-operaciones-ynoue\\concatenacion\\concatenacion\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\source\\repos\\pg2-s19e202-variables-operaciones-ynoue\\1.5ecuacion\\1.5ecuacion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
