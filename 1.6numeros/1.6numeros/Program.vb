@@ -16,9 +16,9 @@ Module Program
 
 
         sumatoria = sumatoria + (uno + dos + tres + cuatro)
-        Console.WriteLine(sumatoria)
+        Console.WriteLine("el resultado de la suma es :" & sumatoria)
         total = total + (sumatoria / 2)
-        Console.WriteLine(total)
+        Console.WriteLine("la media de los numero es :" & total)
 
 
 
