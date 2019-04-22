@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\1.6numeros\1.6numeros\bin\Debug\netcoreapp2.1\1.6numeros.deps.json
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\1.6numeros\1.6numeros\bin\Debug\netcoreapp2.1\1.6numeros.runtimeconfig.json
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\1.6numeros\1.6numeros\bin\Debug\netcoreapp2.1\1.6numeros.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\1.6numeros\1.6numeros\bin\Debug\netcoreapp2.1\1.6numeros.dll
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\1.6numeros\1.6numeros\bin\Debug\netcoreapp2.1\1.6numeros.pdb
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\1.6numeros\1.6numeros\obj\Debug\netcoreapp2.1\1.6numeros.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\1.6numeros\1.6numeros\obj\Debug\netcoreapp2.1\1.6numeros.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\1.6numeros\1.6numeros\obj\Debug\netcoreapp2.1\1.6numeros.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\1.6numeros\1.6numeros\obj\Debug\netcoreapp2.1\1.6numeros.AssemblyInfo.vb
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\1.6numeros\1.6numeros\obj\Debug\netcoreapp2.1\1.6numeros.dll
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\1.6numeros\1.6numeros\obj\Debug\netcoreapp2.1\1.6numeros.pdb
