@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\1.7semanas\1.7semanas\bin\Debug\netcoreapp2.1\1.7semanas.deps.json
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\1.7semanas\1.7semanas\bin\Debug\netcoreapp2.1\1.7semanas.runtimeconfig.json
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\1.7semanas\1.7semanas\bin\Debug\netcoreapp2.1\1.7semanas.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\1.7semanas\1.7semanas\bin\Debug\netcoreapp2.1\1.7semanas.dll
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\1.7semanas\1.7semanas\bin\Debug\netcoreapp2.1\1.7semanas.pdb
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\1.7semanas\1.7semanas\obj\Debug\netcoreapp2.1\1.7semanas.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\1.7semanas\1.7semanas\obj\Debug\netcoreapp2.1\1.7semanas.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\1.7semanas\1.7semanas\obj\Debug\netcoreapp2.1\1.7semanas.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\1.7semanas\1.7semanas\obj\Debug\netcoreapp2.1\1.7semanas.AssemblyInfo.vb
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\1.7semanas\1.7semanas\obj\Debug\netcoreapp2.1\1.7semanas.dll
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\1.7semanas\1.7semanas\obj\Debug\netcoreapp2.1\1.7semanas.pdb
