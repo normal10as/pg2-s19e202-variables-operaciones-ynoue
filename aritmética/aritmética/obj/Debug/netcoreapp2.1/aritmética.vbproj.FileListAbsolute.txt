@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\aritmética\aritmética\bin\Debug\netcoreapp2.1\aritmética.deps.json
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\aritmética\aritmética\bin\Debug\netcoreapp2.1\aritmética.runtimeconfig.json
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\aritmética\aritmética\bin\Debug\netcoreapp2.1\aritmética.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\aritmética\aritmética\bin\Debug\netcoreapp2.1\aritmética.dll
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\aritmética\aritmética\bin\Debug\netcoreapp2.1\aritmética.pdb
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\aritmética\aritmética\obj\Debug\netcoreapp2.1\aritmética.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\aritmética\aritmética\obj\Debug\netcoreapp2.1\aritmética.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\aritmética\aritmética\obj\Debug\netcoreapp2.1\aritmética.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\aritmética\aritmética\obj\Debug\netcoreapp2.1\aritmética.AssemblyInfo.vb
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\aritmética\aritmética\obj\Debug\netcoreapp2.1\aritmética.dll
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\aritmética\aritmética\obj\Debug\netcoreapp2.1\aritmética.pdb
