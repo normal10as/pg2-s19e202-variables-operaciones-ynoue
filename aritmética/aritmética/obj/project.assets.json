@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\pg2-s19e202-variables-operaciones-ynoue\\aritmética\\aritmética\\aritmética.vbproj",
-      "projectName": "aritmética",
-      "projectPath": "C:\\Users\\Usuario\\source\\repos\\pg2-s19e202-variables-operaciones-ynoue\\aritmética\\aritmética\\aritmética.vbproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\pg2-s19e202-variables-operaciones-ynoue\\aritmética\\aritmética\\1.4aritmética.vbproj",
+      "projectName": "1.4aritmética",
+      "projectPath": "C:\\Users\\Usuario\\source\\repos\\pg2-s19e202-variables-operaciones-ynoue\\aritmética\\aritmética\\1.4aritmética.vbproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Usuario\\source\\repos\\pg2-s19e202-variables-operaciones-ynoue\\aritmética\\aritmética\\obj\\",
       "projectStyle": "PackageReference",
