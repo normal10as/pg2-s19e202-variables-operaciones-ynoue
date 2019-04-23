@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\source\\repos\\pg2-s19e202-variables-operaciones-ynoue\\variables_tipos\\variables_tipos\\variables_tipos.vbproj": {}
+    "C:\\Users\\Usuario\\Source\\Repos\\pg2-s19e202-variables-operaciones-ynoue\\variables_tipos\\variables_tipos\\variables_tipos.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\source\\repos\\pg2-s19e202-variables-operaciones-ynoue\\variables_tipos\\variables_tipos\\variables_tipos.vbproj": {
+    "C:\\Users\\Usuario\\Source\\Repos\\pg2-s19e202-variables-operaciones-ynoue\\variables_tipos\\variables_tipos\\variables_tipos.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\pg2-s19e202-variables-operaciones-ynoue\\variables_tipos\\variables_tipos\\variables_tipos.vbproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\pg2-s19e202-variables-operaciones-ynoue\\variables_tipos\\variables_tipos\\variables_tipos.vbproj",
         "projectName": "variables_tipos",
-        "projectPath": "C:\\Users\\Usuario\\source\\repos\\pg2-s19e202-variables-operaciones-ynoue\\variables_tipos\\variables_tipos\\variables_tipos.vbproj",
+        "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\pg2-s19e202-variables-operaciones-ynoue\\variables_tipos\\variables_tipos\\variables_tipos.vbproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\source\\repos\\pg2-s19e202-variables-operaciones-ynoue\\variables_tipos\\variables_tipos\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\pg2-s19e202-variables-operaciones-ynoue\\variables_tipos\\variables_tipos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
