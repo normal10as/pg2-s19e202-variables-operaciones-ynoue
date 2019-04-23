@@ -3,26 +3,26 @@ Imports System
 Module Program
     Sub Main()
         Dim nombredepersona As String
-        Dim numerodedocumento As Integer
+        Dim numerodedocumento As UInteger
         Dim lugardenacimiento As String
         Dim fechadenacimiento As Date
-        Dim alturacorporal As Double
+        Dim alturacorporal As Byte
         Dim argentino As Boolean
-        Dim temperatura As Double
+        Dim temperatura As SByte
         Dim nombrecalle As String
-        Dim alturacalle As String
-        Dim distanciaciudades As Double
-        Dim profundidadmar As Double
-        Dim cantidadhabitantes As Double
-        Dim pesoproducto As Double
-        Dim montoarticulo As Double
+        Dim alturacalle As UShort
+        Dim distanciaciudades As UShort
+        Dim profundidadmar As UShort
+        Dim cantidadhabitantes As Integer
+        Dim pesoproducto As Decimal
+        Dim montoarticulo As Decimal
 
 
         nombredepersona = "Pepe Sanchez"
         numerodedocumento = 20124596
         lugardenacimiento = "Posadas"
         fechadenacimiento = # 9/10/1990 #
-        alturacorporal = 1.75
+        alturacorporal = 175
         argentino = True
         temperatura = 35
         nombrecalle = "los lapachos"
