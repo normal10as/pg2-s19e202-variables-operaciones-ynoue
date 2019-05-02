@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Source\\Repos\\pg2-s19e202-variables-operaciones-ynoue\\1.7semanas\\1.7semanas\\1.7semanas.vbproj": {}
+    "C:\\Users\\Usuario\\Source\\Repos\\pg2-s19e202-variables-operaciones-ynoue\\1.7semanas\\1.7semanas\\1.7equivalencia_dias.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Source\\Repos\\pg2-s19e202-variables-operaciones-ynoue\\1.7semanas\\1.7semanas\\1.7semanas.vbproj": {
+    "C:\\Users\\Usuario\\Source\\Repos\\pg2-s19e202-variables-operaciones-ynoue\\1.7semanas\\1.7semanas\\1.7equivalencia_dias.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\pg2-s19e202-variables-operaciones-ynoue\\1.7semanas\\1.7semanas\\1.7semanas.vbproj",
-        "projectName": "1.7semanas",
-        "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\pg2-s19e202-variables-operaciones-ynoue\\1.7semanas\\1.7semanas\\1.7semanas.vbproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\pg2-s19e202-variables-operaciones-ynoue\\1.7semanas\\1.7semanas\\1.7equivalencia_dias.vbproj",
+        "projectName": "1.7equivalencia_dias",
+        "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\pg2-s19e202-variables-operaciones-ynoue\\1.7semanas\\1.7semanas\\1.7equivalencia_dias.vbproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\pg2-s19e202-variables-operaciones-ynoue\\1.7semanas\\1.7semanas\\obj\\",
         "projectStyle": "PackageReference",
