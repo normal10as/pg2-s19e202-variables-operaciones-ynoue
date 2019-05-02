@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\1.10resto_division\1.10resto_division\bin\Debug\netcoreapp2.1\1.10resto_division.deps.json
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\1.10resto_division\1.10resto_division\bin\Debug\netcoreapp2.1\1.10resto_division.runtimeconfig.json
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\1.10resto_division\1.10resto_division\bin\Debug\netcoreapp2.1\1.10resto_division.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\1.10resto_division\1.10resto_division\bin\Debug\netcoreapp2.1\1.10resto_division.dll
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\1.10resto_division\1.10resto_division\bin\Debug\netcoreapp2.1\1.10resto_division.pdb
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\1.10resto_division\1.10resto_division\obj\Debug\netcoreapp2.1\1.10resto_division.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\1.10resto_division\1.10resto_division\obj\Debug\netcoreapp2.1\1.10resto_division.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\1.10resto_division\1.10resto_division\obj\Debug\netcoreapp2.1\1.10resto_division.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\1.10resto_division\1.10resto_division\obj\Debug\netcoreapp2.1\1.10resto_division.AssemblyInfo.vb
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\1.10resto_division\1.10resto_division\obj\Debug\netcoreapp2.1\1.10resto_division.dll
+C:\Users\Usuario\source\repos\pg2-s19e202-variables-operaciones-ynoue\1.10resto_division\1.10resto_division\obj\Debug\netcoreapp2.1\1.10resto_division.pdb
