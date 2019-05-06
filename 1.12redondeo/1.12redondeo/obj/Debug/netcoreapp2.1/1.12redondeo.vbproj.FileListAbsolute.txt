@@ -1,0 +1,11 @@
+C:\Users\Usuario\Source\Repos\pg2-s19e202-variables-operaciones-ynoue\1.12redondeo\1.12redondeo\bin\Debug\netcoreapp2.1\1.12redondeo.deps.json
+C:\Users\Usuario\Source\Repos\pg2-s19e202-variables-operaciones-ynoue\1.12redondeo\1.12redondeo\bin\Debug\netcoreapp2.1\1.12redondeo.runtimeconfig.json
+C:\Users\Usuario\Source\Repos\pg2-s19e202-variables-operaciones-ynoue\1.12redondeo\1.12redondeo\bin\Debug\netcoreapp2.1\1.12redondeo.runtimeconfig.dev.json
+C:\Users\Usuario\Source\Repos\pg2-s19e202-variables-operaciones-ynoue\1.12redondeo\1.12redondeo\bin\Debug\netcoreapp2.1\1.12redondeo.dll
+C:\Users\Usuario\Source\Repos\pg2-s19e202-variables-operaciones-ynoue\1.12redondeo\1.12redondeo\bin\Debug\netcoreapp2.1\1.12redondeo.pdb
+C:\Users\Usuario\Source\Repos\pg2-s19e202-variables-operaciones-ynoue\1.12redondeo\1.12redondeo\obj\Debug\netcoreapp2.1\1.12redondeo.vbprojAssemblyReference.cache
+C:\Users\Usuario\Source\Repos\pg2-s19e202-variables-operaciones-ynoue\1.12redondeo\1.12redondeo\obj\Debug\netcoreapp2.1\1.12redondeo.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\pg2-s19e202-variables-operaciones-ynoue\1.12redondeo\1.12redondeo\obj\Debug\netcoreapp2.1\1.12redondeo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Source\Repos\pg2-s19e202-variables-operaciones-ynoue\1.12redondeo\1.12redondeo\obj\Debug\netcoreapp2.1\1.12redondeo.AssemblyInfo.vb
+C:\Users\Usuario\Source\Repos\pg2-s19e202-variables-operaciones-ynoue\1.12redondeo\1.12redondeo\obj\Debug\netcoreapp2.1\1.12redondeo.dll
+C:\Users\Usuario\Source\Repos\pg2-s19e202-variables-operaciones-ynoue\1.12redondeo\1.12redondeo\obj\Debug\netcoreapp2.1\1.12redondeo.pdb
