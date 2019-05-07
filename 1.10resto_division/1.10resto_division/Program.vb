@@ -6,7 +6,7 @@ Module Program
         Dim resultado As Integer
         Console.WriteLine("ingrese un numero:")
         nume = Console.ReadLine()
-        resultado = nume / 2
+        resultado = (nume Mod 2)
 
         Console.WriteLine("su numero dividido por dos: {0}", Math.Abs(resultado))
 
