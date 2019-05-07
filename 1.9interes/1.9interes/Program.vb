@@ -17,6 +17,8 @@ Module Program
         i = m * r * t / 360 * 100
         Console.WriteLine("el interes es {0} ", i)
 
+        Console.WriteLine("el monto total es {0}", i + m)
+
 
 
 
