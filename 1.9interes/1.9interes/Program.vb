@@ -10,7 +10,7 @@ Module Program
         Console.WriteLine("ingrese el monto:")
         m = Console.ReadLine()
         Console.WriteLine("ingrse el interes:")
-        r = Console.ReadLine
+        r = Console.ReadLine()
         Console.WriteLine("ingrese el tiempo:")
         t = Console.ReadLine()
 
